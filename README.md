@@ -24,13 +24,13 @@ CLIENT:
 
 SERVER:
 
-<img width="1283" height="290" alt="image" src="https://github.com/user-attachments/assets/1b08c496-0a06-4240-9fbf-2233e4e10f03" />
+<img width="1325" height="288" alt="image" src="https://github.com/user-attachments/assets/ff8e891e-cdf4-45ea-be5b-f292ed150cae" />
+
 
 
 CLIENT:
 
-<img width="551" height="140" alt="image" src="https://github.com/user-attachments/assets/6883835a-d853-4fde-bc83-84b28dc5d157" />
-
+<img width="1283" height="290" alt="image" src="https://github.com/user-attachments/assets/1b08c496-0a06-4240-9fbf-2233e4e10f03" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
